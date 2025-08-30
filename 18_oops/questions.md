@@ -31,6 +31,12 @@ Problem: Create an ElectricCar class that inherits from the Car class and has an
 4. Encapsulation
 </summary>
 Problem: Modify the Car class to encapsulate the brand attribute, making it private, and provide a getter method for it.
+
+Encapsulation Defination:
+Encapsulation in Python means wrapping data (variables) and methods (functions) into a single unit (class) and controlling access to them.
+
+👉 In simple words:
+It’s like putting variables and methods inside a box (class) and deciding which things are public, private, or protected, so outside code cannot directly change important data.
 </details>
 
 <details>
