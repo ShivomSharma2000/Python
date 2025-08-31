@@ -95,11 +95,11 @@ print(isinstance(my_electic_car, ElectricCar))
 # (10) Create two classes Battery and Engine, and let the ElectricCar class inherit from both, demonstrating multiple inheritance.
 class Battery:
     def battery_info(self):
-        return "this is battery"
+        return "this is battery of car"
 
 class Engine:
     def engine_info(self):
-        return "this is engine"
+        return "this is engine of car"
     
 class ElectricCarTwo(Battery, Engine, Car2):        # here we inherit two classes.
     pass
