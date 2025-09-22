@@ -6,4 +6,4 @@ enumerate in Python is a built-in function that lets you loop through an iterabl
 ![alt text](image-1.png)
 
 👉 In short:
-enumerate is useful when you need both the index and the value while looping, instead of using something like range(len(fruits)).
+enumerate is useful when you need both the index's and the value while looping, instead of using something like range(len(fruits)).
